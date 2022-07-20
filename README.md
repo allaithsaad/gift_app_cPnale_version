@@ -1,8 +1,19 @@
 # c_panel
 this version of the system Design to control the customer and the vender versions .
             it website Desgin using flutter .
-        
-        
+ 
+## what the app can do ?
+- Order status tracking .
+- View the delivery site for orders.
+- Modify the status of requests .
+- Accepting products from stores .
+- Send notifications to stores.
+- Disable and activate access to the application for users and display their data.
+- Show the offers in the user application and control them.
+- control occasions and category in the user app with thire product.
+
+
+## packages used in this project        
 ```yaml
                           badges: ^2.0.1
                           cached_network_image: ^3.1.0
@@ -24,6 +35,6 @@ this version of the system Design to control the customer and the vender version
                           carousel_slider: ^4.1.1
 ```
 
-
+# (Try the app from here)[]
 
 
