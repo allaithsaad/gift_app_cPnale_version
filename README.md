@@ -1,5 +1,5 @@
 # c_panel
-this version of the system Design to control the customer and the vender versions .
+this version of the system Design to control the [customer](https://github.com/allaithsaad/gift_app_customer_version) and the [vender](https://github.com/allaithsaad/gift_app_vender_version) versions .
             it website Desgin using flutter .
  
 ## what the app can do ?
@@ -12,6 +12,8 @@ this version of the system Design to control the customer and the vender version
 - Show the offers in the user application and control them.
 - control occasions and category in the user app with thire product.
 
+
+# [Try the app from here](https://allaithsaad.github.io/Control-Panel-web/)
 
 ## packages used in this project        
 ```yaml
@@ -35,6 +37,6 @@ this version of the system Design to control the customer and the vender version
                           carousel_slider: ^4.1.1
 ```
 
-# [Try the app from here](https://allaithsaad.github.io/Control-Panel-web/)
+
 
 
